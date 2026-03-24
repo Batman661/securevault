@@ -20,10 +20,3 @@ databases:
   - name: securevault-db
     databaseName: securevault
     user: securevault
-
-venv/
-__pycache__/
-*.pyc
-db.sqlite3
-staticfiles/
-.env
