@@ -20,7 +20,6 @@ databases:
   - name: securevault-db
     databaseName: securevault
     user: securevault
-```
 
 **5. Create `.gitignore`** (so you don't push the venv or sqlite file):
 ```
